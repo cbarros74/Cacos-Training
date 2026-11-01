@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Carlitos Strong - Training Tracker",
+  "short_name": "Carlitos Fit",
+  "description": "An 8-week junior athlete training and workout log for Carlitos.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#09172e",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
